@@ -5,3 +5,4 @@ Empezar a realizar el proyecto
 Usar nextjs o svelte
 Trabajar con tyscript
 project in vite
+usar nestjs para base de datos
