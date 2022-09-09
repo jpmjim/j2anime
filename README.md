@@ -6,3 +6,4 @@ Usar nextjs o svelte
 Trabajar con tyscript
 project in vite
 usar nestjs para base de datos
+- resolver problema para arrays
